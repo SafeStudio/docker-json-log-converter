@@ -1,4 +1,4 @@
-module github.com/ansidev/djlc
+module github.com/SafeStudio/djlc
 
 go 1.16
 

@@ -16,7 +16,7 @@ limitations under the License.
 package cmd
 
 import (
-	dockerLogConverter "github.com/ansidev/djlc/lc"
+	dockerLogConverter "github.com/SafeStudio/djlc/lc"
 	"github.com/spf13/cobra"
 )
 

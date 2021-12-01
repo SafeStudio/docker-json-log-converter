@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"encoding/json"
 	"fmt"
-	"github.com/ansidev/djlc/file"
+	"github.com/SafeStudio/djlc/file"
 	"log"
 	"os"
 )

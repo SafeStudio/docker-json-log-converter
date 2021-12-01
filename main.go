@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ansidev/djlc/cmd"
+import "github.com/SafeStudio/djlc/cmd"
 
 func main() {
 	cmd.Execute()
